@@ -1,8 +1,8 @@
-"","category","value"
-"1","health_official",8.20294210763352
-"2","expert",3.99840703413588
-"3","civil_society_groups",1.83009390696659
-"4","journalist",4.42839892555263
-"5","politician",6.21480911031897
-"6","expert_university",3.35290037724358
-"7","medical_professional",3.66208905534748
+"","category","percent_toxic","percent_total_dst"
+"1","health_official",8.20294210763352,13.6712251438228
+"2","expert",3.99840703413588,38.8813127633906
+"3","civil_society_groups",1.83009390696659,5.58282893000249
+"4","journalist",4.42839892555263,9.89498209873646
+"5","politician",6.21480911031897,26.439248787024
+"6","expert_university",3.35290037724358,3.6036008576025
+"7","medical_professional",3.66208905534748,0.146489822218781
